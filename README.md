@@ -69,12 +69,12 @@ Nombre              | Rol        | Email
 Ignacio Gutiérrez   | Coordinador | igufu.cs@estudiante.uc.cl
 Benjamín Saavedra   | Cátedra     | benjamon@estudiante.uc.cl
 Matías Maldonado    | Tareas      |
- | Corrector   |
- | Corrector   |
- | Corrector   |
- | Corrector   |
- | Corrector   |
- | Corrector   |
+ Sebastián Besoain| Corrector   |
+ Josefa Buch | Corrector   |
+ Sofía Guzmán| Corrector   |
+ David Rebolledo | Corrector   |
+ Gonzalo Rivas | Corrector   |
+ Cristóbal Soto | Corrector   |
 
 ## Foro y Comunicación
 
