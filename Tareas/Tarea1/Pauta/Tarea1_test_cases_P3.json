@@ -1,0 +1,126 @@
+{
+    "buscar_productos_por_presupuesto": [
+        {
+            "categoria_ingles": "health_beauty",
+            "precio_maximo": 50.0
+        },
+        {
+            "categoria_ingles": "sports_leisure",
+            "precio_maximo": 100.0
+        },
+        {
+            "categoria_ingles": "bed_bath_table",
+            "precio_maximo": 35.5
+        },
+        {
+            "categoria_ingles": "computers_accessories",
+            "precio_maximo": 150.0
+        },
+        {
+            "categoria_ingles": "furniture_decor",
+            "precio_maximo": 80.0
+        },
+        {
+            "categoria_ingles": "watches_gifts",
+            "precio_maximo": 200.0
+        },
+        {
+            "categoria_ingles": "telephony",
+            "precio_maximo": 20.0
+        },
+        {
+            "categoria_ingles": "auto",
+            "precio_maximo": 120.0
+        },
+        {
+            "categoria_ingles": "toys",
+            "precio_maximo": 60.0
+        },
+        {
+            "categoria_ingles": "cool_stuff",
+            "precio_maximo": 90.0
+        },
+        {
+            "categoria_ingles": "garden_tools",
+            "precio_maximo": 300.0
+        },
+        {
+            "categoria_ingles": "perfumery",
+            "precio_maximo": 75.0
+        },
+        {
+            "categoria_ingles": "baby",
+            "precio_maximo": 45.0
+        },
+        {
+            "categoria_ingles": "electronics",
+            "precio_maximo": 500.0
+        },
+        {
+            "categoria_ingles": "stationery",
+            "precio_maximo": 15.0
+        }
+    ],
+    "costo_envio_por_peso_y_ciudad": [
+        {
+            "ciudad_destino": "sao paulo",
+            "peso_minimo_gramos": 500
+        },
+        {
+            "ciudad_destino": "rio de janeiro",
+            "peso_minimo_gramos": 1000
+        },
+        {
+            "ciudad_destino": "belo horizonte",
+            "peso_minimo_gramos": 250
+        },
+        {
+            "ciudad_destino": "brasilia",
+            "peso_minimo_gramos": 2000
+        },
+        {
+            "ciudad_destino": "curitiba",
+            "peso_minimo_gramos": 1500
+        },
+        {
+            "ciudad_destino": "campinas",
+            "peso_minimo_gramos": 300
+        },
+        {
+            "ciudad_destino": "porto alegre",
+            "peso_minimo_gramos": 4000
+        },
+        {
+            "ciudad_destino": "salvador",
+            "peso_minimo_gramos": 800
+        },
+        {
+            "ciudad_destino": "guarulhos",
+            "peso_minimo_gramos": 100
+        },
+        {
+            "ciudad_destino": "sao bernardo do campo",
+            "peso_minimo_gramos": 3500
+        },
+        {
+            "ciudad_destino": "niteroi",
+            "peso_minimo_gramos": 5000
+        },
+        {
+            "ciudad_destino": "santo andre",
+            "peso_minimo_gramos": 750
+        },
+        {
+            "ciudad_destino": "osasco",
+            "peso_minimo_gramos": 2500
+        },
+        {
+            "ciudad_destino": "goiania",
+            "peso_minimo_gramos": 1200
+        },
+        {
+            "ciudad_destino": "fortaleza",
+            "peso_minimo_gramos": 6000
+        }
+    ]
+}
